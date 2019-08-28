@@ -1,0 +1,6 @@
+ej\result\HTMLReportGenerator.class
+ej\scenarios\Login.class
+ej\scenarios\Hookable.class
+ej\scenarios\Config.class
+ej\scenarios\CreateCompany.class
+ej\scenarios\RunTest.class
